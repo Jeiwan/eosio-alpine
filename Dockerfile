@@ -43,6 +43,7 @@ RUN apk add --no-cache \
       libcrypto1.1 \
       libcurl \
       libgcc \
+      libintl \
       libstdc++ \
       libusb \
       musl \
